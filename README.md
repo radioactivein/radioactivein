@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @radioactivein
 - 👀 I’m interested in Visual and Front-end Designing
-- 🌱 I’m currently learning html and java
-- 💞️ I’m looking to collaborate on my website design 
+- 🌱 I’m currently learning css, js.
+- 💞️ i post almost daily my work updates here.
 - 📫 Reach me on ameenbaasim@outlook.com 
 
 <!---
