@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radioactivein
-- 👀 I’m interested in Visual and Front-end Designing
-- 🌱 I’m currently learning responsive websites with js and jquery and Bs.
+- 👀 I’m a Front-end Developer.
+- 🌱 I’m create Resposive websites with css, js, bs and more.
 - 💞️ i post almost daily my work updates here.
 - 📫 Reach me on ameenbaasim@outlook.com 
 
