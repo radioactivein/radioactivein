@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @radioactivein
 - 👀 I’m a Front-end Developer.
-- 🌱 Bootstrap, Wordpress and Shopify.
-- 💞️ I may post almost daily my work updates here.
-- 📫 Reach me on ameenbaasim@outlook.com 
+- 🌱 UIUX, Laravel, Wordpress and Shopify.
+- 
 [![autocomplete](https://codeium.com/badges/user/radioactive/autocomplete)](https://codeium.com/profile/radioactive)
 <!---
 radioactivein/radioactivein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
